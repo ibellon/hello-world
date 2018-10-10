@@ -1,5 +1,5 @@
 # hello-world
-It's a how to do repository
+**How to make a repository**
 # Hello guys
-I'm trying to use GitHub
+*I'm trying to use GitHub*
 
